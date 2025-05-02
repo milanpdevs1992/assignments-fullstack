@@ -43,6 +43,11 @@ This project is an **Intelligent Resume Parser** built using a hybrid approach:
 - **Validation & Parsing in Code**: Avoids reliance on strict LLM formatting.
 - **No Hardcoded Lists**: Skill/degree names extracted flexibly using the LLM.
 
+## Deployment
+
+- **Client App**: [https://assignments-fullstack-kappa.vercel.app/](https://assignments-fullstack-kappa.vercel.app/)
+- **Server App**: [https://assignments-fullstack-server.vercel.app/](https://assignments-fullstack-server.vercel.app/)
+
 ## Setup Instructions
 
 ### Prerequisites
